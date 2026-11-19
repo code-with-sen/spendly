@@ -1,0 +1,3 @@
+# Count the Python code (not stylesheets and templates) as the repo language on GitHub
+*.css linguist-detectable=false
+*.html linguist-detectable=false
